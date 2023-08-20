@@ -1,5 +1,3 @@
-# Dumbell-Terms-and-Conditions
-
 # TERMS AND CONDITIONS
 Last updated August 19, 2023
 
