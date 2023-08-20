@@ -50,7 +50,12 @@ The information provided when using the Services is not intended for distributio
 The Services are not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use the Services. You may not use the Services in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
 ## 2. INTELLECTUAL PROPERTY RIGHTS 
-Our intellectual propertyWe are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").Our Content and Marks are protected by copyright and trademark laws (and various
+
+### Our intellectual property
+
+We are the owner or the licensee of all intellectual property rights in our Services, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics in the Services (collectively, the "Content"), as well as the trademarks, service marks, and logos contained therein (the "Marks").
+
+Our Content and Marks are protected by copyright and trademark laws (and various
 other intellectual property rights and unfair competition laws) and treaties in the United
 States and around the world.The Content and Marks are provided in or through the Services "AS IS" for your personal, non-commercial use or internal business purpose only.Your use of our ServicesSubject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive, non-transferable, revocable license to:
 • access the Services; and• download or print a copy of any portion of the Content to which you have properly gained access.solely for your personal, non-commercial use or internal business purpose.Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced,
