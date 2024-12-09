@@ -1,13 +1,13 @@
 # TERMS AND CONDITIONS
 Last updated August 19, 2023
 
-AGREEMENT TO OUR LEGAL TERMSWe are Dumbell: Health and Fitness ("Company," "we," "us," "our"), a company registered in Oklahoma, United States at 17304 Avila Ln, Oklahoma City, OK 73170-6639.
+AGREEMENT TO OUR LEGAL TERMSWe are SimplyFit: Health and Fitness ("Company," "we," "us," "our"), a company registered in Oklahoma, United States at 17304 Avila Ln, Oklahoma City, OK 73170-6639.
 
-We operate the mobile application Dumbell: Health and Fitness (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+We operate the mobile application SimplyFit: Health and Fitness (the "App"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
 You can contact us by phone at 4056501533, email at samuellupton@icloud.com, or by mail to 17304 Avila Ln, Oklahoma City, OK 73170-6639, United States.
 
-These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Dumbell: Health and Fitness, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and SimplyFit: Health and Fitness, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.
 
@@ -273,7 +273,7 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-Dumbell: Health and Fitness
+SimplyFit: Health and Fitness
 ***** ***** **
 Oklahoma City, OK 73170-6639
 United States
